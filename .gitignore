@@ -1,0 +1,15 @@
+target/
+data/
+.idea/
+*.iml
+*.log
+.env
+target/
+dist/
+data/
+.idea/
+*.iml
+*.log
+.env
+docs/
+*.zip
